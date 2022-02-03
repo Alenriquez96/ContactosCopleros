@@ -1,0 +1,65 @@
+body{
+    background-color: #5b9eed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+main{
+    
+    width: 373px;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+
+}
+section{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 350px;
+   
+}
+        #fary{
+            display: flex;
+            justify-content: flex-start;
+            border-bottom: solid 0.5px grey;
+        }
+                #farydesc{
+                    justify-content: flex-start;
+        }
+                    #farydesc>h2{
+                        margin-bottom: 0px;
+                    }
+        #manolo{
+            display: flex;
+            border-bottom: solid 0.5px grey;
+        }
+                #manolodesc{
+
+        }
+        #rocio{
+        display: flex;
+        border-bottom: solid 0.5px grey;
+        }
+                #rociodesc{
+
+        }
+        #lola{
+        display: flex;
+      
+        
+        }
+                #loladesc{
+
+        }
+
