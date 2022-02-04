@@ -18,7 +18,8 @@ main{
     height: 500px;
     background-color: white;
     display: flex;
-    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
 
 }
 section{
